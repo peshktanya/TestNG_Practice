@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test verbose="2" name="Priorities Tests">
+        <classes>
+            <class name="Priorities.Example1" />
+            <class name="Priorities.Example2" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test verbose="2" name="AnnotationsTests">
+        <classes>
+            <class name="Annotations.Annotation1" />
+            <class name="Annotations.Annotation2" />
+        </classes>
+    </test>
+</suite>
